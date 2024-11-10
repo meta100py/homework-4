@@ -26,7 +26,10 @@ function App() {
             Github
           </a>
           and
-          <a href="#" rel="noopener noreferrer">
+          <a
+            href="https://amazing-tanuki-edefec.netlify.app"
+            rel="noopener noreferrer"
+          >
             hosted on Netlify
           </a>
         </p>
